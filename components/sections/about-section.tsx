@@ -31,7 +31,7 @@ export function AboutSection() {
               <div className="flex items-center gap-3">
                 <Phone size={20} className="text-blue-500" />
                 <a href="tel:+916352685326" className="text-slate-700 dark:text-slate-300 hover:text-blue-500">
-                +916352685326
+                +91 6352685326
                 </a>
               </div>
             </div>
